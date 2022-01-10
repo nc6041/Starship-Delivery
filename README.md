@@ -11,6 +11,7 @@ Representative Tasks Performed Using this Application:
 3. Allows the user to remove a location if it’s not viable anymore
 
 Data Wrangler: Natalie Cheng
+
 Brief description of the Data Wrangler’s role and responsibilities in this project:
 Data Wrangler will load the map of distances from the respective nodes (dining hall to dorm building, with other UW Madison buildings as nodes here and there as well) 
 
@@ -18,5 +19,5 @@ Application Data:
 Locations of UW residence halls and dining halls as well as their distances from each other
 
 Development Responsibilities and Deadlines:
-StarshipInfo.csv  - creating the Nodes and their distances with
+StarshipInfo.csv  - CSV File of UW Madison campus buildings and their distances from each other
 StarshipLoader.java  - load csv file and organize information
