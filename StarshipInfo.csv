@@ -1,0 +1,34 @@
+Building,B1,D1 ,B2,D2,B3,D3
+Memorial Union,College Library,22,Memorial Library,21,Chadbourne,24
+Union South,Camp Randall,27,Engineering Building,15,Discovery Building,21
+Chadbourne,Memorial Union,33,Humanites Building,12,Grainger Hall,11
+Ogg,Nicholas Recreation Center,9,Smith,18,,
+Sellery,Grainger Hall,10,Humanites Building,25,Nicholas Recreation Center,36
+Smith,Kohl Center,44,Ogg,21,Sophomore Slums,26
+Witte,Memorial Library,38,Kohl Center,19,Nicholas Recreation Center,14
+Bradley,Dejope,4,Kronshage,3,,
+Dejope,Phillips,2,Bradley,1,,
+Cole,Leopold,2,Sullivan,1,Kronshage,4
+Kronshage,Bradley,5,Cole,3,,
+Leopold,Cole,3,School of Ecology,45,,
+Phillips,Dejope,3,,,,
+Sullivan,Cole,2,,,,
+Waters,College Library,49,Bascom Hall,25,,
+Nicholas Recreation Center,Sellery,32,Ogg,10,,
+Kohl Center,Witte,16,Smith,37,,
+Memorial Library,Witte,35,Memorial Union,20,Humanities Building,22
+College Library,Waters,46,Memorial Union,21,,
+Grainger Hall,Chadbourne,9,Chemistry Building,5,Sellery,8
+Engineering Hall,Camp Randall,37,Union South,24,MicroBio Buildling,39
+Discovery Building,Union South,21,Psychology,10,Sterling Hall,25
+Psychology Building,Chemistry Building,26,Discovery Building,11,,
+Chemistry Building,Grainger Hall,14,Psychology Building,24,Educational Sciences,23
+Sterling Hall,Bascom Hall,27,School of Ecology,22,Discovery Building,25
+Bascom Hill,Waters,23,Sterling Hall,24,Chadbourne,36
+MicroBio Building,School of Ecology,36,Engineering Building,43,,
+School of Ecology,Leopold,42,Sterling Hall,29,MicroBio Buildling,33
+Sterling Hall,Bascom Hall,22,School of Ecology,23,Discovery Building,28
+Camp Randall,Union South,24,Engineering Building,13,,
+Sophomore Slums,Camp Randall,19,,,,
+Educational Science,Chemistry Building,24,Sophomore Slums,16,,
+Humanities Building,Sellery,20,Chadbourne,10,,
